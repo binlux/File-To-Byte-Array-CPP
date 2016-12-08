@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/07 20:30:50.000.296,=C:\Documents and Settings\Jamal\Mes documents\RAD Studio\Projets\Project1.res</Transaction>
+    <Transaction>2013/01/07 20:30:50.000.359,=C:\Documents and Settings\Jamal\Mes documents\RAD Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2013/01/07 20:35:57.000.000,C:\Documents and Settings\Jamal\Mes documents\RAD Studio\Projets\Unit1.cpp=C:\Documents and Settings\Jamal\Bureau\Fast Methode StingBuilder\C++\Main.cpp</Transaction>
+    <Transaction>2013/01/07 20:35:57.000.000,C:\Documents and Settings\Jamal\Mes documents\RAD Studio\Projets\Unit1.dfm=C:\Documents and Settings\Jamal\Bureau\Fast Methode StingBuilder\C++\Main.dfm</Transaction>
+    <Transaction>2013/01/07 20:35:57.000.000,C:\Documents and Settings\Jamal\Mes documents\RAD Studio\Projets\Unit1.h=C:\Documents and Settings\Jamal\Bureau\Fast Methode StingBuilder\C++\Main.h</Transaction>
+    <Transaction>2013/01/07 20:36:00.000.031,C:\Documents and Settings\Jamal\Mes documents\RAD Studio\Projets\Project1.cbproj=C:\Documents and Settings\Jamal\Bureau\Fast Methode StingBuilder\C++\FileToBytes.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
